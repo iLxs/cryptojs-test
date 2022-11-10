@@ -1,0 +1,22 @@
+{
+  "name": "cryptojs-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crytojs"
+  ],
+  "author": "iLxs",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.5"
+  }
+}
